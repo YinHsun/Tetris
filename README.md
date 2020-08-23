@@ -4,7 +4,9 @@
 - python3 and pygame
 
 ## Start
-- python3 Tetris.py
+```shell
+python3 Tetris.py
+```
 
 ## How to play
 
