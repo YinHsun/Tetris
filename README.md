@@ -21,4 +21,4 @@
 - Difficulty from 0 to 5
 
 ### Game preview
-<img src"https://i.imgur.com/M7bpU8r.png" alt="Game">
+<img src"https://i.imgur.com/M7bpU8r.png">
